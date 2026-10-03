@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-efc08c8a84.geimqci.cn/sitemap.xml
